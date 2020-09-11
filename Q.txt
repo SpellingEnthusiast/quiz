@@ -1,0 +1,6 @@
+What is the capital of France?|Paris
+What is the capital of Germany?|Berlin
+What is the capital of Lithuania?|Vilnius
+What is the capital of Poland?|Warsaw
+What is the capital of Ireland?|Dublin
+Where is the Great Wall of China located?|China
