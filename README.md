@@ -5,6 +5,7 @@ Takes two arguments: filename containing questions + answers (located in same di
 Question file should follow the template of the one in this repository.
 
 Difficulty levels:
+
 1 No clue is given and only a ‘?’ is shown. Example: What is the capital of France? ?
 
 2 A set of blank dashes seprated by spaces is displayed, one for every letter in the answer. Example: What is the capital of France? - - - - -
